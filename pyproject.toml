@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "68987b19a1704e96a955a65dbb4c3192"
+version = "0.1.0"
+description = ""
+authors = ["Faisal Ilaiwi <faisal@intunedhq.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.58.1"
+anthropic = "^0.42.0"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
