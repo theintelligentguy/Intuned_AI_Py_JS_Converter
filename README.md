@@ -68,6 +68,3 @@ py modules/validation.py tests/folder/py/python_file.py tests/folder/js/js_file.
 
 **Validation **may result in a false positive, and although you can write successful automated cases, much like real QA it's best to have someone check it for various codes.
 
-#### BONUS:
-
-I included the API key in .env.example for testing purposes, but in a real project it would be in a .env file and won't be pushed obviously.
